@@ -1,0 +1,33 @@
+{
+  "name": "developer-log-extension",
+  "displayName": "Developer Log Extension",
+  "description": "Tracks developer activity on VSCode and logs changes to a GitHub repository.",
+  "version": "1.0.0",
+  "publisher": "Shah Alam Abir",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahalam22/developer-log-extension.git"
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "devlog.start",
+        "title": "DevLog: Start"
+      },
+      {
+        "command": "devlog.terminate",
+        "title": "DevLog: Terminate"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "node ./test/runTest.js"
+  },
+  "dependencies": {}
+}
