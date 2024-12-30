@@ -1,9 +1,9 @@
 {
   "name": "developer-log-extension",
-  "displayName": "Developer Log Extension",
+  "displayName": "DLESA Developer Log Extension",
   "description": "Tracks developer activity on VSCode and logs changes to a GitHub repository.",
   "version": "1.0.0",
-  "publisher": "Shah Alam Abir",
+  "publisher": "shahalam22-extensions",
   "engines": {
     "vscode": "^1.60.0"
   },
