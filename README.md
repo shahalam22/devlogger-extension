@@ -41,7 +41,7 @@
    - Use the `Devlog: Start` command to begin tracking.
 
 3. **Repository Setup**:
-   - When starting for the first time, provide a Git repository URL for cloning.
+   - When starting for the first time, provide a Git repository URL (Where all the logs of vscode activity according to the day will be saved) for cloning.
    - Ensure you have appropriate permissions to push changes to the remote repository.
 
 ---
