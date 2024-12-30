@@ -4,6 +4,7 @@
   "description": "Tracks developer activity on VSCode and logs changes to a GitHub repository.",
   "version": "1.0.0",
   "publisher": "shahalam22-extensions",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
