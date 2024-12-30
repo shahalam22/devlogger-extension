@@ -1,6 +1,6 @@
 {
   "name": "vsdle-devlogger-extension",
-  "displayName": "VSDLE Developer's Log Extension",
+  "displayName": "VSDLE",
   "description": "Tracks developer activity on VSCode and logs changes to a GitHub repository.",
   "version": "1.0.0",
   "publisher": "shahalam22-extensions",
